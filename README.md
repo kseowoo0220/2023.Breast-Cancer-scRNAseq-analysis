@@ -56,7 +56,7 @@ This repository contains code and analysis for the **BIOS 785 Group 4 Project**,
 
 
 
-## 📚 References
+## References
 - Wu et al., *Nature Genetics* (2021) – A single-cell and spatially resolved atlas of human breast cancers  
 - Gordon et al., *PLOS ONE* (2023) – Tumor-associated mesenchymal stromal cells  
 - Yin et al., *Cancer Cell Int* (2021) – Collagen genes in EMT  
